@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 // UC 1
 // Checks if employee is present or absent
 const IS_ABSENT=0;
